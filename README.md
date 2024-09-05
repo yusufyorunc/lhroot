@@ -1,7 +1,7 @@
 # Linux Chroot Installer
 
 Systemless Linux chroot installer and Linux chroot boot script
-
+ 
 ## Requirements
 - Rooted with Magisk
 - busybox installed
